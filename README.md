@@ -1,0 +1,1 @@
+# SonarQube-Docker-Netcore
